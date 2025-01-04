@@ -1,6 +1,6 @@
 {
-  "title": "Desarrollador Web Frontend - Felix Rangel",
-  "description": "Desarrollador Web Frontend de Estelí, Nicaragua. Especialista en HTML5, CSS5, JavaScript ES6+, Node.js y WordPress.",
+  "title": "Desarrollador Web Fullstack - Alfredo Dumaine",
+  "description": "Desarrollador Web Fullstack de Ciudad de México, México. Experto en Symfony, React, Node.js, JavaScript ES6+, y APIs RESTful.",
   "navbar": [
     {
       "label": "Inicio",
@@ -21,27 +21,49 @@
   ],
   "hero": {
     "job_availability": "¡Disponible para trabajar!",
-    "title": "¡Hola soy Felix Rangel!",
-    "job_title": "<strong>Desarrollador Web Frontend</strong> de Estelí, Nicaragua.",
-    "description": "Especialista en HTML5, CSS5, JavaScript ES6+, Node.js y WordPress.",
+    "title": "¡Hola soy Alfredo Dumaine!",
+    "job_title": "<strong>Desarrollador Web Fullstack</strong> de Mexico, Ciudad de Mexico.",
+    "description": "Especialista en PHP, Symfony, React, Node.js, Express.js, JavaScript, y Tailwind. Experto en el desarrollo de APIs RESTful y apasionado por crear soluciones eficientes y escalables.",
     "cta": "Contactame"
   },
   "experience": {
     "title": "Experiencia laboral",
     "jobs": {
-      "jobs_title": ["Freelance", "HD Media Nicaragua"],
+      "jobs_title": [
+        "Instituto Nacional Electoral (INE)",
+        "Binte Consulting Group",
+        "Filtros de Occidente"
+      ],
       "jobs_description": [
         {
-          "title": "Desarrollador Web Frontend",
-          "time": ["Dic 2021"],
-          "description": "Creo sitios web con diseños modernos y aplicando buenas prácticas de UI/UX. También me encargo de rediseñar, optimizar el posicionamiento SEO, aumentar las medidas de seguridad y optimizar el rendimiento de velocidad de sitios web, para aumentar la taza de conversión y las visitas.",
-          "list": ["Diseño de sitios web", "Optimización de sitios web"]
+          "title": "Desarrollador Web Fullstack",
+          "time": ["Ene 2024"],
+          "description": "Diseñé actualizaciones de software y hardware para la urna electrónica, implementé medidas de seguridad para proteger datos sensibles y planifiqué pruebas exhaustivas de hardware y software. Coordiné la implementación de ejercicios de votación electrónica, asegurando la calidad y confiabilidad del sistema.",
+          "list": [
+            "Diseño de actualizaciones de software y hardware para urnas electrónicas.",
+            "Implementación de sistemas de seguridad para datos.",
+            "Planificación y ejecución de pruebas de hardware y software."
+          ]
         },
         {
-          "title": "Desarrollador Web en WordPress",
-          "time": ["Nov 2020", "Oct 2021"],
-          "description": "Me encargué de desarrollar sitios web en WordPress para clientes de Nicaragua, durante mi tiempo en la agencia aporté mi conocimiento en seguridad web aumentando las medidas y disminuyendo las brechas de seguridad en WordPress, configurando plugins y estableciendo cabeceras HTTP como Content-Security-Policy (CSP), Cross-Origin-Resource-Policy (CORP), Cross-Origin-Opener-Policy (COOP), etc.",
-          "list": ["Diseño de sitios web", "Optimización de sitios web"]
+          "title": "Desarrollador Web",
+          "time": ["Feb 2023", "Dic 2023"],
+          "description": "Propuse y diseñé actualizaciones de software y hardware para sistemas específicos, implementé sistemas de seguridad para proteger datos y planifiqué pruebas de hardware y software. Elaboré informes detallados sobre los desarrollos realizados y diseñé mecanismos de control y mantenimiento.",
+          "list": [
+            "Diseño de actualizaciones de software y hardware.",
+            "Implementación de sistemas de seguridad para la gestión de datos.",
+            "Planificación y ejecución de pruebas de sistemas."
+          ]
+        },
+        {
+          "title": "Auxiliar de Sistemas",
+          "time": ["Feb 2022", "Ene 2023"],
+          "description": "Realicé mantenimiento preventivo y correctivo de equipos de cómputo, asegurando su óptimo funcionamiento. Colaboré en el desarrollo y soporte de herramientas web internas para optimizar procesos. Documenté procedimientos técnicos y soluciones aplicadas, contribuyendo al mejoramiento continuo del área de TI.",
+          "list": [
+            "Diagnóstico y reparación de equipos de cómputo.",
+            "Desarrollo y soporte de herramientas web en HTML, CSS y JavaScript.",
+            "Documentación de procedimientos y resultados técnicos."
+          ]
         }
       ]
     }
@@ -119,8 +141,8 @@
   },
   "about": {
     "title": "Sobre mí",
-    "subtitle": "Soy mod de Midudev y ManzDev pero más feliz me siento siendo mod de AnaRangel",
-    "description": "Soy un Desarrollador Web Frontend y WordPress con más de 3 años de experiencia, especializado en crear diseños modernos y optimizar el rendimiento web, con un enfoque en tecnologías como HTML 5, CSS 3, JavaScript ES6+ y WordPress. Manejo frameworks como React y Astro, y soy experto en constructores visuales de WordPress, además de tener un fuerte conocimiento técnico en Core Web Vitals, lo que me convierte en un profesional apasionado y altamente cualificado para cualquier proyecto de desarrollo web."
+    "subtitle": "Apasionado por la tecnología y el desarrollo web.",
+    "description": "Soy un Desarrollador Web Fullstack con experiencia en frontend y backend, especializado en crear soluciones innovadoras con tecnologías como Symfony, React, Node.js, y MongoDB. Con conocimientos en APIs RESTful, Docker, y diseño de bases de datos, disfruto aprender continuamente y mejorar mis habilidades para ofrecer productos de alta calidad. Mi objetivo es construir proyectos que generen un impacto positivo y brinden experiencias excepcionales a los usuarios."
   },
   "contact": {
     "title": "¿Listo para dar vida a tus ideas?",

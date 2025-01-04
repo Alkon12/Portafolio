@@ -1,6 +1,6 @@
 {
-  "title": "Web Frontend Developer - Felix Rangel",
-  "description": "Web Frontend Developer from Esteli, Nicaragua. Specialist in HTML5, CSS5, JavaScript ES6+, Node.js and WordPress.",
+  "title": "Fullstack Web Developer - Alfredo Dumaine",
+  "description": "Fullstack Web Developer from Mexico City, Mexico. Expert in Symfony, React, Node.js, JavaScript ES6+, and RESTful APIs.",
   "navbar": [
     {
       "label": "Home",
@@ -21,27 +21,49 @@
   ],
   "hero": {
     "job_availability": "Available for work!",
-    "title": "Hello I'm Felix Rangel!",
-    "job_title": "<strong>Web Frontend Developer</strong> from Esteli, Nicaragua.",
-    "description": "Specialist in HTML5, CSS5, JavaScript ES6+, Node.js and WordPress.",
+    "title": "Hello I'm Alfredo Dumaine!",
+    "job_title": "<strong>Fullstack Web Developer</strong> from Mexico City, Mexico.",
+    "description": "Specialist in PHP, Symfony, React, Node.js, Express.js, JavaScript, and Tailwind. Expert in RESTful API development and passionate about creating efficient and scalable solutions.",
     "cta": "Contact me"
   },
   "experience": {
     "title": "Work Experience",
     "jobs": {
-      "jobs_title": ["Freelance", "HD Media Nicaragua"],
+      "jobs_title": [
+        "Instituto Nacional Electoral (INE)",
+        "Binte Consulting Group",
+        "Filtros de Occidente"
+      ],
       "jobs_description": [
         {
-          "title": "Web Frontend Developer",
-          "time": ["Dec 2021"],
-          "description": "I create modern websites with good UI/UX practices. I also manage SEO, security and performance optimizations to increase conversion and visits.",
-          "list": ["Design of websites", "Optimization of websites"]
+          "title": "Fullstack Web Developer",
+          "time": ["Jan 2024"],
+          "description": "Designed software and hardware updates for electronic voting machines, implemented security measures to protect sensitive data, and planned comprehensive hardware and software testing. Coordinated the implementation of electronic voting exercises, ensuring system quality and reliability.",
+          "list": [
+            "Design of software and hardware updates for electronic voting machines",
+            "Implementation of data security systems",
+            "Planning and execution of hardware and software testing"
+          ]
         },
         {
-          "title": "WordPress Web Developer",
-          "time": ["Nov 2020", "Oct 2021"],
-          "description": "I was in charge of developing WordPress websites for clients in Nicaragua, during my time at the agency I contributed my knowledge in web security by increasing measures and decreasing security gaps in WordPress, configuring plugins and setting HTTP headers such as Content-Security-Policy (CSP), Cross-Origin-Resource-Policy (CORP), Cross-Origin-Opener-Policy (COOP), etc.",
-          "list": ["Design of websites", "Optimization of websites"]
+          "title": "Web Developer",
+          "time": ["Feb 2023", "Dec 2023"],
+          "description": "Proposed and designed software and hardware updates for specific systems, implemented security systems to protect data, and planned hardware and software testing. Prepared detailed reports on developments and designed control and maintenance mechanisms.",
+          "list": [
+            "Design of software and hardware updates",
+            "Implementation of data management security systems",
+            "Planning and execution of system testing"
+          ]
+        },
+        {
+          "title": "Systems Assistant",
+          "time": ["Feb 2022", "Jan 2023"],
+          "description": "Performed preventive and corrective maintenance of computer equipment, ensuring optimal operation. Collaborated in the development and support of internal web tools to optimize processes. Documented technical procedures and applied solutions, contributing to the continuous improvement of the IT area.",
+          "list": [
+            "Computer equipment diagnosis and repair",
+            "Development and support of web tools using HTML, CSS, and JavaScript",
+            "Documentation of technical procedures and results"
+          ]
         }
       ]
     }
