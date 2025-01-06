@@ -14,12 +14,12 @@ interface Props {
     // Ahora es opcional y tiene URL
     text: string
     url: string
-  }
+  } | null
   preview?: {
     // Ahora es opcional y tiene URL
     text: string
     url: string
-  }
+  } | null
 }
 
 const { src, alt, title, description, techs, code, preview } = Astro.props

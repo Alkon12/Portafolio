@@ -75,13 +75,17 @@
         "title": "Plataforma de Voto electronico ",
         "description": "Primera plataforma en México para la gestión integral de ejercicios de participación ciudadana. Innovador sistema que permite diseñar gráficamente la interfaz de las urnas electrónicas, gestionar múltiples ejercicios simultáneos y visualizar resultados en tiempo real. Implementada a nivel nacional, esta solución ha revolucionado la manera en que se administran los procesos de votación electrónica en la República Mexicana.",
         "image": "/src/images/projects/pve.jpeg",
-        "techs": ["Php", "Mysql", "Symfony", "JavaScript"]
+        "techs": ["Php", "Mysql", "Symfony", "JavaScript"],
+        "code": null,
+        "preview": null
       },
       {
         "title": "Validador de tablas OPL",
         "description": "Software especializado para Organismos Públicos Locales (OPL) que automatiza la validación de integridad en tablas de información electoral. Verifica estructura, contenido y realiza análisis de modificaciones, generando reportes detallados para garantizar la calidad de los datos antes de su envío al INE. Herramienta fundamental en el proceso electoral, implementada exitosamente en toda la República Mexicana.",
         "image": "/src/images/projects/validador.jpeg",
-        "techs": ["Python", "Qt"]
+        "techs": ["Python", "Qt"],
+        "code": null,
+        "preview": null
       },
       {
         "title": "Dashboard",
@@ -98,7 +102,8 @@
         "code": {
           "text": "Código",
           "url": "https://github.com/Alkon12/dashboard-companies"
-        }
+        },
+        "preview": null
       }
     ]
   },
