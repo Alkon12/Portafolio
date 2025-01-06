@@ -10,8 +10,16 @@ interface Props {
   title: string
   description: string
   techs: string[]
-  code: string
-  preview: string
+  code?: {
+    // Ahora es opcional y tiene URL
+    text: string
+    url: string
+  }
+  preview?: {
+    // Ahora es opcional y tiene URL
+    text: string
+    url: string
+  }
 }
 
 const { src, alt, title, description, techs, code, preview } = Astro.props
@@ -56,14 +64,22 @@ if (!images[src])
     </div>
     <p>{description}</p>
     <div class="links">
-      <a href="#">
-        <Icon name="github" size={24} />
-        {code}
-      </a>
-      <a href="#">
-        <Icon name="link" size={24} />
-        {preview}
-      </a>
+      {
+        code && (
+          <a href={code.url}>
+            <Icon name="github" size={24} />
+            {code.text}
+          </a>
+        )
+      }
+      {
+        preview && (
+          <a href={preview.url}>
+            <Icon name="link" size={24} />
+            {preview.text}
+          </a>
+        )
+      }
     </div>
   </div>
 </section>

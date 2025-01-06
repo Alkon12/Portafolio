@@ -52,6 +52,105 @@ html {
     color: #000;
     transition: var(--transition-bg), var(--transition-text);
   }
+  /* Frameworks Backend */
+  .symfony {
+    background-color: #000000;
+  }
+  .django {
+    background-color: #092e20;
+    transition: var(--transition-bg);
+  }
+  .laravel {
+    background-color: #ff2d20;
+    transition: var(--transition-bg);
+  }
+  .expressjs {
+    background-color: #353535;
+  }
+
+  /* Lenguajes */
+  .python {
+    background-color: #3776ab;
+  }
+  .java {
+    background-color: #507e9c;
+    transition: var(--transition-bg);
+  }
+  .kotlin {
+    background-color: #7f52ff;
+    transition: var(--transition-bg);
+  }
+  .swift {
+    background-color: #f05138;
+    transition: var(--transition-bg);
+  }
+
+  /* Frameworks Frontend y UI */
+  .angular {
+    background-color: #dd0031;
+    transition: var(--transition-bg);
+  }
+  .vue {
+    background-color: #41b883;
+    transition: var(--transition-bg);
+  }
+  .svelte {
+    background-color: #ff3e00;
+    transition: var(--transition-bg);
+  }
+  .qt {
+    background-color: #41cd52;
+  }
+  .shadcn {
+    background-color: #18181b;
+  }
+
+  /* Herramientas y DevOps */
+  .docker {
+    background-color: #2496ed;
+  }
+  .kubernetes {
+    background-color: #326ce5;
+    transition: var(--transition-bg);
+  }
+  .husky {
+    background-color: #42b983;
+    transition: var(--transition-bg);
+  }
+  .git {
+    background-color: #f14e32;
+    transition: var(--transition-bg);
+  }
+
+  /* Bases de datos */
+  .mongodb {
+    background-color: #47a248;
+    transition: var(--transition-bg);
+  }
+  .postgresql {
+    background-color: #336791;
+    transition: var(--transition-bg);
+  }
+  .mysql {
+    background-color: #4479a1;
+  }
+  .mariadb {
+    background-color: #003545;
+  }
+
+  /* Testing */
+  .jest {
+    background-color: #c21325;
+    transition: var(--transition-bg);
+  }
+  .cypress {
+    background-color: #17202c;
+    transition: var(--transition-bg);
+  }
+  .vitest {
+    background-color: #729b1b;
+    transition: var(--transition-bg);
+  }
 }
 
 html.dark {
@@ -92,5 +191,87 @@ html.dark {
 
   .firebase {
     background-color: #ffdd88;
+  }
+  .symfony {
+    background-color: #7a7a7a;
+  }
+  .django {
+    background-color: #44b78b;
+  }
+  .laravel {
+    background-color: #ff8c82;
+  }
+  .expressjs {
+    background-color: #898989;
+  }
+
+  /* Lenguajes */
+  .python {
+    background-color: #89cff0;
+  }
+  .java {
+    background-color: #b4d3e3;
+  }
+  .kotlin {
+    background-color: #c4a7ff;
+  }
+  .swift {
+    background-color: #ffb4a3;
+  }
+
+  /* Frameworks Frontend y UI */
+  .angular {
+    background-color: #ff9b9b;
+  }
+  .vue {
+    background-color: #9fecc6;
+  }
+  .svelte {
+    background-color: #ffac8c;
+  }
+  .qt {
+    background-color: #98eba6;
+  }
+  .shadcn {
+    background-color: #a1a1aa;
+  }
+
+  /* Herramientas y DevOps */
+  .docker {
+    background-color: #89cff0;
+  }
+  .kubernetes {
+    background-color: #99beff;
+  }
+  .husky {
+    background-color: #9fecc6;
+  }
+  .git {
+    background-color: #ffb4a3;
+  }
+
+  /* Bases de datos */
+  .mongodb {
+    background-color: #9fecc6;
+  }
+  .postgresql {
+    background-color: #99beff;
+  }
+  .mysql {
+    background-color: #89cff0;
+  }
+  .mariadb {
+    background-color: #89d6e6;
+  }
+
+  /* Testing */
+  .jest {
+    background-color: #ff9b9b;
+  }
+  .cypress {
+    background-color: #a1a1aa;
+  }
+  .vitest {
+    background-color: #d4e989;
   }
 }

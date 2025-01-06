@@ -72,35 +72,33 @@
     "title": "Proyectos",
     "projects": [
       {
-        "title": "Estelí Buses",
-        "description": "La primer plataforma para conocer los horarios de las terminales de autobuses interlocales del municipio de Estelí, Nicaragua.",
-        "image": "/src/images/projects/esteli-buses-project.jpg",
-        "techs": ["Astro", "TailwindCSS", "Firebase", "PWA"],
-        "code": "Código",
-        "preview": "Vista previa"
+        "title": "Plataforma de Voto electronico ",
+        "description": "Primera plataforma en México para la gestión integral de ejercicios de participación ciudadana. Innovador sistema que permite diseñar gráficamente la interfaz de las urnas electrónicas, gestionar múltiples ejercicios simultáneos y visualizar resultados en tiempo real. Implementada a nivel nacional, esta solución ha revolucionado la manera en que se administran los procesos de votación electrónica en la República Mexicana.",
+        "image": "/src/images/projects/pve.jpeg",
+        "techs": ["Php", "Mysql", "Symfony", "JavaScript"]
       },
       {
-        "title": "Portafolio UX Ana Rangel",
-        "description": "Lorem ipsum dolor sit amet consectetur. Faucibus quis sociis at sagittis egestas sed volutpat. Arcu pellentesque elit volutpat quam. Id dictum sagittis hendrerit diam viverra velit. Blandit id viverra quis lectus faucibus egestas ipsum turpis.",
-        "image": "/src/images/projects/ana-rangel-portafolio.jpg",
-        "techs": ["Astro", "CSS", "SASS", "Open Props", "TypeScript"],
-        "code": "Código",
-        "preview": "Vista previa"
+        "title": "Validador de tablas OPL",
+        "description": "Software especializado para Organismos Públicos Locales (OPL) que automatiza la validación de integridad en tablas de información electoral. Verifica estructura, contenido y realiza análisis de modificaciones, generando reportes detallados para garantizar la calidad de los datos antes de su envío al INE. Herramienta fundamental en el proceso electoral, implementada exitosamente en toda la República Mexicana.",
+        "image": "/src/images/projects/validador.jpeg",
+        "techs": ["Python", "Qt"]
       },
       {
-        "title": "Calculadora Payoneer Nicaragua",
-        "description": "Descubre una herramienta esencial para freelancers y negocios en Nicaragua. Nuestra Calculadora Payoneer Nicaragua te permite calcular de manera precisa y rápida las tarifas y comisiones al recibir pagos internacionales a través de Payoneer. ¡Empieza a usarla hoy y toma el control de tus finanzas!",
-        "image": "/src/images/projects/calculadora-payoneer-project.jpg",
+        "title": "Dashboard",
+        "description": "Dashboard interactivo diseñado para la gestión eficiente de negocios. Ofrece visualizaciones dinámicas de KPIs, métricas financieras y análisis de tendencias en tiempo real. Esta herramienta facilita la toma de decisiones estratégicas al proporcionar una visión integral del rendimiento empresarial a través de interfaces intuitivas y personalizables.",
+        "image": "/src/images/projects/dashboard.jpeg",
         "techs": [
-          "Astro",
+          "Nextjs",
           "TailwindCSS",
           "React",
           "TypeScript",
-          "PWA",
-          "Firebase"
+          "Expressjs",
+          "Nodejs"
         ],
-        "code": "Código",
-        "preview": "Vista previa"
+        "code": {
+          "text": "Código",
+          "url": "https://github.com/Alkon12/dashboard-companies"
+        }
       }
     ]
   },

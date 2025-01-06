@@ -72,35 +72,33 @@
     "title": "Projects",
     "projects": [
       {
-        "title": "Estelí Buses",
-        "description": "The first platform to know the bus schedules of interlocal buses in the Estelí municipality, Nicaragua.",
-        "image": "/src/images/projects/esteli-buses-project.jpg",
-        "techs": ["Astro", "TailwindCSS", "Firebase", "PWA"],
-        "code": "Code",
-        "preview": "Preview"
+        "title": "Electronic Voting Platform",
+        "description": "First platform in Mexico for comprehensive management of citizen participation exercises. An innovative system that allows graphical design of electronic voting booth interfaces, management of multiple simultaneous exercises, and real-time results visualization. Implemented nationwide, this solution has revolutionized how electronic voting processes are administered across Mexico.",
+        "image": "/src/images/projects/pve.jpeg",
+        "techs": ["Php", "Mysql", "Symfony", "JavaScript"]
       },
       {
-        "title": "Portafolio UX Ana Rangel",
-        "description": "Lorem ipsum dolor sit amet consectetur. Faucibus quis sociis at sagittis egestas sed volutpat. Arcu pellentesque elit volutpat quam. Id dictum sagittis hendrerit diam viverra velit. Blandit id viverra quis lectus faucibus egestas ipsum turpis.",
-        "image": "/src/images/projects/ana-rangel-portafolio.jpg",
-        "techs": ["Astro", "CSS", "SASS", "Open Props", "TypeScript"],
-        "code": "Code",
-        "preview": "Preview"
+        "title": "OPL Table Validator",
+        "description": "Specialized software for Local Public Organizations (OPL) that automates integrity validation of electoral information tables. It verifies structure, content, and performs modification analysis, generating detailed reports to ensure data quality before submission to INE. A fundamental tool in the electoral process, successfully implemented throughout Mexico.",
+        "image": "/src/images/projects/validador.jpeg",
+        "techs": ["Python", "Qt"]
       },
       {
-        "title": "Calculadora Payoneer Nicaragua",
-        "description": "Discover an essential tool for freelancers and businesses in Nicaragua. Our Calculadora Payoneer Nicaragua allows you to calculate precisely and quickly the rates and commissions when receiving international payments through Payoneer. Start using it today and take control of your finances!",
-        "image": "/src/images/projects/calculadora-payoneer-project.jpg",
+        "title": "Business Dashboard",
+        "description": "Interactive dashboard designed for efficient business management. Offers dynamic visualizations of KPIs, financial metrics, and real-time trend analysis. This tool facilitates strategic decision-making by providing a comprehensive view of business performance through intuitive and customizable interfaces.",
+        "image": "/src/images/projects/dashboard.jpeg",
         "techs": [
-          "Astro",
+          "Nextjs",
           "TailwindCSS",
           "React",
           "TypeScript",
-          "PWA",
-          "Firebase"
+          "Expressjs",
+          "Nodejs"
         ],
-        "code": "Code",
-        "preview": "Preview"
+        "code": {
+          "text": "Code",
+          "url": "https://github.com/tu-usuario/tu-repo"
+        }
       }
     ]
   },
@@ -141,8 +139,8 @@
   },
   "about": {
     "title": "About me",
-    "subtitle": "I'm a Midudev and ManzDev mod but I'm happier being an AnaRangel mod",
-    "description": "I am a Frontend Web Developer and WordPress Developer with over 3 years of experience, specialized in creating modern designs and optimizing web performance, with a focus on technologies such as HTML 5, CSS 3, JavaScript ES6+ and WordPress. I handle frameworks such as React and Astro, and I am an expert in WordPress visual builders, in addition to having a strong technical knowledge in Core Web Vitals, which makes me a passionate and highly qualified professional for any web development project."
+    "subtitle": "Passionate about technology and web development.",
+    "description": "I'm a Fullstack Web Developer with experience in frontend and backend, specialized in creating innovative solutions using technologies like Symfony, React, Node.js, and MongoDB. With expertise in RESTful APIs, Docker, and database design, I enjoy continuous learning and improving my skills to deliver high-quality products. My goal is to build projects that create positive impact and provide exceptional user experiences."
   },
   "contact": {
     "title": "Ready to make your dreams come true?",
